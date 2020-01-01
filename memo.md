@@ -11,3 +11,5 @@
 ## webpack
 - モジュールバンドラ
 - 複数のjsファイルをまとめてbundle.jsとする。そのファイルを、scriptとしてHTMLから読み込む。
+
+## props
