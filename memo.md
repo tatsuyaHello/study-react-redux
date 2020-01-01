@@ -4,3 +4,10 @@
 - 直感的にHTMLを記述することができる。
 - `import React`はJSXを使用する場合は必要である。
 - `React.Fragment`を利用することで、Reactの都合で必要になる`<div>`タグを削除できる。
+
+## トランスパイル
+- babelがJSXをJavaScriptのコードに暗黙的に変換してくている。
+
+## webpack
+- モジュールバンドラ
+- 複数のjsファイルをまとめてbundle.jsとする。そのファイルを、scriptとしてHTMLから読み込む。
