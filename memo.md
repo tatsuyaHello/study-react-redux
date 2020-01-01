@@ -15,3 +15,11 @@
 ## state
 - `setState`が実行されると、stateの値が更新されるだけではなく、再レンダリングもされる(最後に)。
 - `setState`じゃない方法でstateを変える場合は、自分で再レンダリングをしなくてはいけない。
+
+## redux
+- `yarn add redux react-redux`
+
+### action
+- アプリケーションの中で何が起きたのかを表すデータのこと
+- JavaScriptのオブジェクトのこと
+- actionを返す関数のことをactionCreaterという
