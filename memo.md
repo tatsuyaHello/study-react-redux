@@ -30,3 +30,6 @@
 
 ### store
 - reducerをもとにstoreを作成する
+
+### connect
+- react-reduxが用意してる`connect`を利用して、state,aciton,commponentを関連付けし、viewのイベントから値を更新し、再レンダリングすることまでをやる。
