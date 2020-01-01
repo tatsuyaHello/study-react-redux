@@ -27,3 +27,6 @@
 ### reducer
 - actionに組み込まれているtypeに応じて、状態をどう変化させるのかということを定義する。
 - ここでいう状態はstateのことを表す。
+
+### store
+- reducerをもとにstoreを作成する
